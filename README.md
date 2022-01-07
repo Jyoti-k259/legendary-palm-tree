@@ -2,7 +2,7 @@
 >BigData Hadoop Project 
 
 ***This project was done on AWS Instance as well as GCP instance.***
-* Technology used:
+**Technology used:**
 - AWS/GCP 
 - BIGDATA hadoop setup on Cloud Instance
 - HIVE
